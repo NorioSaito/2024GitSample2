@@ -1,1 +1,2 @@
 sample2.txt を新規作成
+sample2.txt を変更しました。
